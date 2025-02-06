@@ -1,4 +1,4 @@
-package inheritance;
+package superkeyword ;
 
 public class Child1 extends parent1
 {
